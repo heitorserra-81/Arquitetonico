@@ -1,0 +1,17 @@
+{
+  "name": "Casa Forma — Projetos Arquitetônicos",
+  "short_name": "Casa Forma",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#18231f",
+  "description": "Catálogo e checkout demonstrativo de projetos arquitetônicos.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
